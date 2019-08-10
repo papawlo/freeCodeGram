@@ -1,3 +1,10 @@
 
 https://www.youtube.com/watch?v=ImtZ5yENzgE
 2:26:41
+
+
+
+php artisan cache:clear
+php artisan view:clear
+php artisan route:clear
+composer dump-autoload

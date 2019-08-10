@@ -31,13 +31,6 @@ export default {
           }
         });
     },
-    // followUser () {
-    //   axios.get('/follow/' + this.userId)
-    //     .then(response => { console.log(response.data); })
-    //     .catch((e) => {
-    //       console.error(e)
-    //     })
-    // }
   },
   computed: {
     buttonText () {
